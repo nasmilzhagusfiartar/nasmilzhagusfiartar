@@ -8,4 +8,4 @@ Saya juga memiliki beberapa pengalaman belajar dalam mengasah skill di bidang IT
 
 Saya juga memiliki kemampuan dalam menganalisis pasar saham dan membaca fundamental perusahaan.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nasmilzha-gusfiarta-rachmadi/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nasmilzha-gusfiarta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU0wDHLgBSuW8Ze0k06qDYQ%3D%3D)ku ya.
