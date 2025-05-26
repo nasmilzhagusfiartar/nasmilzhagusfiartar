@@ -1,6 +1,4 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Nasmilzha Gusfiarta Rachmadi**.<br>
+# Hi! 👋, I'm Nasmilzha! <br>
 
 Saya seorang mahasiswa di Universitas Pamulang Prodi Sistem Informasi.<br>
 
