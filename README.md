@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Nasmilzha! <br>
 
-👨🏻‍💻 Information Systems Student and Administration Staff  
+👨🏻‍💻 Information Systems Student  
 🎓 Currently studying at Universitas Pamulang - Sistem Informasi  
 🌱 Always exploring and learning new things, especially in technology and capital market  
 
@@ -35,17 +35,12 @@
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
-### 🎨 Design & Multimedia
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 
 ---
 
